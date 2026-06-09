@@ -1,4 +1,4 @@
-# 👋 Welcome to My Profile
+# Welcome to My Profile
 
 <div align="center">
   <h2>Data Scientist & AI/ML Engineer</h2>
@@ -11,7 +11,7 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
 I am a passionate **Data Scientist & AI/ML Engineer** with 4+ years of hands-on experience in developing cutting-edge machine learning solutions, generative AI applications, and data-driven automation systems. I specialize in building scalable ML models, implementing LLMs and RAG systems, and leveraging cloud technologies to solve complex business problems.
 
@@ -38,7 +38,7 @@ Currently working at **EY Global Data & Analytics** where I drive innovation thr
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### **Programming Languages**
 - Python (Expert)
@@ -89,7 +89,7 @@ Currently working at **EY Global Data & Analytics** where I drive innovation thr
 
 ---
 
-## 📊 Featured Projects
+## Featured Projects
 
 ### **Generative AI & LLM Solutions**
 - Developed RAG-based chatbot systems using LLMs and Vector Databases for document retrieval and question-answering
