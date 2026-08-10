@@ -83,6 +83,7 @@ Currently working at **EY Global Data & Analytics** where I drive innovation thr
 
 ### **Automation & RPA**
 - Blue Prism (Advanced)
+- UI path
 - Power Automate
 - Workflow Automation
 - Process Automation
